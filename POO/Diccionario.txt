@@ -17,7 +17,5 @@
         "Default":["¿Podrías reformular tu respuesta? No logro entenderla", "Perdón, ¿A qué te refieres con eso?", "No entiendo, ¿Podrías dar otra respuesta?", 
         "Apenas estoy aprendiendo y hay cosas que no logro entender. ¿Podrías darme otra respuesta?"],
                    
-        "Comprensiva":["Entiendo", "De acuerdo", "Comprendo", "Ya veo", "Interesante", "Ok"],
-        
-        "Verbo":["lograr", "alcanzar", "cumplir", "completar", "llevar a cabo"]
+        "Comprensiva":["Entiendo", "De acuerdo", "Comprendo", "Ya veo", "Interesante", "Ok"]
 }
