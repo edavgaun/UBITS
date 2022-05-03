@@ -1,6 +1,10 @@
 {
+        "Nombre":["¿Cuál es tu nombre?", "¿Cómo te llamas?", "¿Con quién tengo el gusto?"],
         
-        "Saludo":["Mucho gusto {0}", "Encantado de conocerte {0}", "Hola {0}, vamos a conversar", "Me da gusto platicar contigo {0}","Que tal {0}, empecemos la charla."],
+        "Apellido":["¿Cuáles son tus apellidos?", "¿Y tus appellidos son?"],
+        
+        "Saludo":["Mucho gusto {0}", "Encantado de conocerte {0}", "Hola {0}, vamos a conversar", "Me da gusto platicar contigo {0}",
+        "Que tal {0}, empecemos la charla."],
         
         "Agradecimiento":["Perfecto", "Muchas gracias", "Gracias por tu respuesta", "Te agradezco tu tiempo", "Excelente, gracias"],
         
@@ -10,8 +14,8 @@
         
         "Despedida":["Hasta pronto", "Hasta luego", "Nos vemos pronto", "Mucho éxito", "Cuidate mucho", "Adiós"],
         
-        "Default":["¿Podrías reformular tu respuesta? No logro entenderla", "Perdón, ¿A qué te refieres con eso?", 
-                   "No entiendo, ¿Podrías dar otra respuesta?", "Apenas estoy aprendiendo y hay cosas que no logro entender. ¿Podrías darme otra respuesta?"],
+        "Default":["¿Podrías reformular tu respuesta? No logro entenderla", "Perdón, ¿A qué te refieres con eso?", "No entiendo, ¿Podrías dar otra respuesta?", 
+        "Apenas estoy aprendiendo y hay cosas que no logro entender. ¿Podrías darme otra respuesta?"],
                    
         "Comprensiva":["Entiendo", "De acuerdo", "Comprendo", "Ya veo", "Interesante", "Ok"],
         
