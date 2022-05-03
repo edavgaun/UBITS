@@ -1,7 +1,4 @@
 {
-        "Nombre":["¿Cuál es tu nombre?", "¿Cómo te llamas?", "¿Con quién tengo el gusto?"],
-        
-        "Apellido":["¿Cuáles son tus apellidos?", "¿Y tus appellidos son?"],
         
         "Saludo":["Mucho gusto {0}", "Encantado de conocerte {0}", "Hola {0}, vamos a conversar", "Me da gusto platicar contigo {0}","Que tal {0}, empecemos la charla."],
         
